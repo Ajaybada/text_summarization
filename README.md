@@ -1,2 +1,3 @@
-# text_summarization
-html,css,flask_api,huggingface
+# text_summarization NLP end to end
+html,css,python,..
+flask_api,huggingface,
